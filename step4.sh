@@ -1,4 +1,4 @@
-nohup eog /tmp/benjiconfigsplash.png
-rm -rf /etc/xdg/autostart/step4.desktop
+sudo nohup eog /tmp/benjiconfigsplash.png
+sudo rm -rf /etc/xdg/autostart/step4.desktop
 sudo apt-get update
-nohup /tmp/cleanup.sh
+sudo nohup /tmp/cleanup.sh
