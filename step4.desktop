@@ -2,6 +2,6 @@
 Version=1.0
 Type=Application
 Terminal=true
-Exec=sudo nohup bash /tmp/step4.sh
+Exec=sudo nohup bash /.step4.sh
 Name=Benji's Config
 Comment=Step 4/4
