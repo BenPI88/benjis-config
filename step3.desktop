@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Exec=sudo nohup bash /tmp/step3.sh
+Name=Benji's Config
+Comment=Step 3/4
